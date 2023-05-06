@@ -1,0 +1,14 @@
+D:\games\GOG Galaxy\Games\RimWorld\Mods\SM_VNPE_ThirstPatch-master\1.4\Assemblies\NVPE_ThirstPatch.dll
+D:\games\GOG Galaxy\Games\RimWorld\Mods\SM_VNPE_ThirstPatch-master\1.4\Assemblies\NVPE_ThirstPatch.pdb
+D:\games\GOG Galaxy\Games\RimWorld\Mods\SM_VNPE_ThirstPatch-master\Source\NVPE_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPEConnectedBed_ThirstPatch.csproj.AssemblyReference.cache
+D:\games\GOG Galaxy\Games\RimWorld\Mods\SM_VNPE_ThirstPatch-master\Source\NVPE_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPEConnectedBed_ThirstPatch.csproj.CoreCompileInputs.cache
+D:\games\GOG Galaxy\Games\RimWorld\Mods\SM_VNPE_ThirstPatch-master\Source\NVPE_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPEConnectedBed_ThirstPatch.csproj.CopyComplete
+D:\games\GOG Galaxy\Games\RimWorld\Mods\SM_VNPE_ThirstPatch-master\Source\NVPE_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPE_ThirstPatch.dll
+D:\games\GOG Galaxy\Games\RimWorld\Mods\SM_VNPE_ThirstPatch-master\Source\NVPE_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPE_ThirstPatch.pdb
+D:\games\GOG Galaxy\Games\RimWorld\Mods\VNPEConnectedBed_ThirstPatch\Source\NVPEConnectedBed_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPEConnectedBed_ThirstPatch.csproj.AssemblyReference.cache
+D:\games\GOG Galaxy\Games\RimWorld\Mods\VNPEConnectedBed_ThirstPatch\Source\NVPEConnectedBed_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPEConnectedBed_ThirstPatch.csproj.CoreCompileInputs.cache
+D:\games\GOG Galaxy\Games\RimWorld\Mods\VNPEConnectedBed_ThirstPatch\Source\NVPEConnectedBed_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPEConnectedBed_ThirstPatch.csproj.CopyComplete
+D:\games\GOG Galaxy\Games\RimWorld\Mods\VNPEConnectedBed_ThirstPatch\1.4\Assemblies\NVPEConnectedBed_ThirstPatch.dll
+D:\games\GOG Galaxy\Games\RimWorld\Mods\VNPEConnectedBed_ThirstPatch\1.4\Assemblies\NVPEConnectedBed_ThirstPatch.pdb
+D:\games\GOG Galaxy\Games\RimWorld\Mods\VNPEConnectedBed_ThirstPatch\Source\NVPEConnectedBed_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPEConnectedBed_ThirstPatch.dll
+D:\games\GOG Galaxy\Games\RimWorld\Mods\VNPEConnectedBed_ThirstPatch\Source\NVPEConnectedBed_ThirstPatch\BUILD\Debug\AnyCPU\NVPEConnectedBed_ThirstPatch\NVPEConnectedBed_ThirstPatch.pdb

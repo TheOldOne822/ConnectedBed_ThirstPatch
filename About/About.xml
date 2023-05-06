@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>Connected Bed Thirst Patch</name>
+  <author>TheOldOne</author>
+  <url></url>
+  <packageId>Oldone.VNPECBThirst</packageId>
+  <description>Adds thirst to Connected bed mod.
+</description>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+    <modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</downloadUrl>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+		</li>
+        <li>
+            <packageId>zed.0xff.vnpe.connectedbed</packageId>
+            <displayName>Connected Bed</displayName>
+            <downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2957904090</downloadUrl>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2957904090</steamWorkshopUrl>
+        </li>
+		<li>
+			<packageId>Dubwise.DubsBadHygiene</packageId>
+			<displayName>Dubs Bad Hygiene</displayName>
+			<downloadUrl>https://steamcommunity.com/workshop/filedetails/?id=836308268</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/836308268</steamWorkshopUrl>
+		</li>
+    </modDependencies>
+    <loadAfter>
+        <li>brrainz.harmony</li>
+        <li>zed.0xff.vnpe.connectedbed</li>
+        <li>Dubwise.DubsBadHygiene</li>
+    </loadAfter>
+</ModMetaData>
